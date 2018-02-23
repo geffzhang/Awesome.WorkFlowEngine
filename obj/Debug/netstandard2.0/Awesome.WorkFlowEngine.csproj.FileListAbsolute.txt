@@ -1,8 +1,0 @@
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/bin/Debug/netstandard2.0/Walle.WorkFlowEngine.deps.json
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/bin/Debug/netstandard2.0/Walle.WorkFlowEngine.dll
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/bin/Debug/netstandard2.0/Walle.WorkFlowEngine.pdb
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/obj/Debug/netstandard2.0/Walle.WorkFlowEngine.csproj.CoreCompileInputs.cache
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/obj/Debug/netstandard2.0/Walle.WorkFlowEngine.AssemblyInfoInputs.cache
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/obj/Debug/netstandard2.0/Walle.WorkFlowEngine.AssemblyInfo.cs
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/obj/Debug/netstandard2.0/Walle.WorkFlowEngine.dll
-/Users/xufenghui/Projects/Walle.WorkFlowEngine/obj/Debug/netstandard2.0/Walle.WorkFlowEngine.pdb
