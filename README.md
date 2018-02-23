@@ -7,6 +7,11 @@ a lightweight distributed workflow engine that helps you make a fast way to buil
 
 [![Build status](https://ci.appveyor.com/api/projects/status/65jpqa0qm812fofk/branch/master?svg=true)](https://ci.appveyor.com/project/yemadu/walle-workflowengine/branch/master)
 
+### Nuget
+
+https://www.nuget.org/packages/Walle.WorkFlowEngine
+
+
 # Language and DataBase
 
 C# ,DotNetCore, MongoDb
