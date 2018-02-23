@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Awesome.WorkFlowEngine.WorkNode.Attributes
+namespace Walle.WorkFlowEngine.WorkNode.Attributes
 {
     [AttributeUsage(AttributeTargets.Class)]
     public class NodeRequireAttribute : Attribute

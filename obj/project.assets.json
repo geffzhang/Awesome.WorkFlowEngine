@@ -4274,11 +4274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xufenghui/Projects/Awesome.WorkFlowEngine/Awesome.WorkFlowEngine.csproj",
-      "projectName": "Awesome.WorkFlowEngine",
-      "projectPath": "/Users/xufenghui/Projects/Awesome.WorkFlowEngine/Awesome.WorkFlowEngine.csproj",
+      "projectUniqueName": "/Users/xufenghui/Documents/WalleStudio/Walle.WorkFlowEngine/Walle.WorkFlowEngine.csproj",
+      "projectName": "Walle.WorkFlowEngine",
+      "projectPath": "/Users/xufenghui/Documents/WalleStudio/Walle.WorkFlowEngine/Walle.WorkFlowEngine.csproj",
       "packagesPath": "/Users/xufenghui/.nuget/packages/",
-      "outputPath": "/Users/xufenghui/Projects/Awesome.WorkFlowEngine/obj/",
+      "outputPath": "/Users/xufenghui/Documents/WalleStudio/Walle.WorkFlowEngine/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

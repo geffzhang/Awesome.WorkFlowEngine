@@ -1,7 +1,7 @@
-﻿using Awesome.WorkFlowEngine.Core;
+﻿using Walle.WorkFlowEngine.Core;
 using System.Collections.Generic;
 
-namespace Awesome.WorkFlowEngine.Interface
+namespace Walle.WorkFlowEngine.Interface
 {
 
     public interface IWorkFlowBase

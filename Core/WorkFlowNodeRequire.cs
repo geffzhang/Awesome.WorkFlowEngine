@@ -1,12 +1,12 @@
-﻿using Awesome.WorkFlowEngine.Interface;
-using Awesome.WorkFlowEngine.WorkNode.Attributes;
+﻿using Walle.WorkFlowEngine.Interface;
+using Walle.WorkFlowEngine.WorkNode.Attributes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace Awesome.WorkFlowEngine.Core
+namespace Walle.WorkFlowEngine.Core
 {
 
     public class WorkFlowNodeRequire

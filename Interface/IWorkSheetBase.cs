@@ -1,9 +1,9 @@
-﻿using Awesome.WorkFlowEngine.Base;
+﻿using Walle.WorkFlowEngine.Base;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 using System.Collections.Generic;
 
-namespace Awesome.WorkFlowEngine.Interface
+namespace Walle.WorkFlowEngine.Interface
 {
     public interface IWorkSheetBase
     {

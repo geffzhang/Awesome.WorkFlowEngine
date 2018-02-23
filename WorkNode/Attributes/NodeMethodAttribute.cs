@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
-using Awesome.WorkFlowEngine.Common;
+using Walle.WorkFlowEngine.Common;
 
-namespace Awesome.WorkFlowEngine.WorkNode.Attributes
+namespace Walle.WorkFlowEngine.WorkNode.Attributes
 {
     [AttributeUsage(AttributeTargets.Method)]
     public class NodeMethodAttribute : Attribute
