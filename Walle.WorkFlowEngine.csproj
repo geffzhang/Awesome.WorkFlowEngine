@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="MongoDB.Bson" Version="2.4.4" />
+        <PackageReference Include="MongoDB.Driver" Version="2.4.4" />
+        <PackageReference Include="MongoDB.Driver.Core" Version="2.4.4" />
+        <PackageReference Include="System.Reflection" Version="4.3.0" />
+        <PackageReference Include="System.Reflection.Context" Version="4.3.0" />
+        <PackageReference Include="System.Reflection.Extensions" Version="4.3.0" />
+        <PackageReference Include="System.Reflection.Primitives" Version="4.3.0" />
+        <PackageReference Include="System.Reflection.TypeExtensions" Version="4.4.0" />
+        <PackageReference Include="System.Reflection.Primitives" Version="4.3.0" />
+    </ItemGroup>
+</Project>
