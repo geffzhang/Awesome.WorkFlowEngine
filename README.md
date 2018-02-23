@@ -14,6 +14,6 @@ C# ,DotNetCore, MongoDb
 
 ```
 dotnet restore
-dotnet pack -c Release -o ..
+dotnet pack -c Release -o .
 ```
 
