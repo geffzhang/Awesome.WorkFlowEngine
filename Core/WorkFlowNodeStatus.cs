@@ -1,6 +1,6 @@
 using System;
 
-namespace Awesome.WorkFlowEngine.Core
+namespace Walle.WorkFlowEngine.Core
 {
     public partial class WorkFlowNodeStatus
     {

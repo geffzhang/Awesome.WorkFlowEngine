@@ -1,9 +1,9 @@
 using System;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
-using Awesome.WorkFlowEngine.Mongo;
+using Walle.WorkFlowEngine.Mongo;
 
-namespace Awesome.WorkFlowEngine.Mongo
+namespace Walle.WorkFlowEngine.Mongo
 {
     public class MongoEntityBase : IMongoEntityBase
     {

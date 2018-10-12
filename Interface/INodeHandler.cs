@@ -1,9 +1,9 @@
-﻿using Awesome.WorkFlowEngine.Core;
+﻿using Walle.WorkFlowEngine.Core;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Awesome.WorkFlowEngine.Interface
+namespace Walle.WorkFlowEngine.Interface
 {
     public interface INodeHandler
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace Awesome.WorkFlowEngine.Common
+namespace Walle.WorkFlowEngine.Common
 {
     /// <summary>
     /// 封装单例类

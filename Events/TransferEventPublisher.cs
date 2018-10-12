@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Awesome.WorkFlowEngine.Events
+namespace Walle.WorkFlowEngine.Events
 {
     public static class TransferEventPublisher
     {

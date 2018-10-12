@@ -1,8 +1,0 @@
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/bin/Debug/netstandard2.0/Awesome.WorkFlowEngine.deps.json
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/bin/Debug/netstandard2.0/Awesome.WorkFlowEngine.dll
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/bin/Debug/netstandard2.0/Awesome.WorkFlowEngine.pdb
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/obj/Debug/netstandard2.0/Awesome.WorkFlowEngine.csproj.CoreCompileInputs.cache
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/obj/Debug/netstandard2.0/Awesome.WorkFlowEngine.AssemblyInfoInputs.cache
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/obj/Debug/netstandard2.0/Awesome.WorkFlowEngine.AssemblyInfo.cs
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/obj/Debug/netstandard2.0/Awesome.WorkFlowEngine.dll
-/Users/xufenghui/Projects/Awesome.WorkFlowEngine/obj/Debug/netstandard2.0/Awesome.WorkFlowEngine.pdb

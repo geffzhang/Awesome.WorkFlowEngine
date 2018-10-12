@@ -1,7 +1,7 @@
-using Awesome.WorkFlowEngine.Core;
-using Awesome.WorkFlowEngine.Interface;
+using Walle.WorkFlowEngine.Core;
+using Walle.WorkFlowEngine.Interface;
 
-namespace Awesome.WorkFlowEngine.Base
+namespace Walle.WorkFlowEngine.Base
 {
     public class WorkItemBase : IWorkItemBase
     {

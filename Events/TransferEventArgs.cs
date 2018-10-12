@@ -1,15 +1,14 @@
-﻿using Awesome.WorkFlowEngine.Interface;
+﻿using Walle.WorkFlowEngine.Interface;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Awesome.WorkFlowEngine.Events
+namespace Walle.WorkFlowEngine.Events
 {
     public class TransferEventArgs : EventArgs
     {
         public IWorkSheetBase WorkSheet { get; set; } = null;
         public IWorkItemBase WorkItem { get; set; } = null;
-
         public List<TransferedDetail> Transfered = new List<TransferedDetail>();
     }
 

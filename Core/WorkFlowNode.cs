@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Awesome.WorkFlowEngine.Core
+namespace Walle.WorkFlowEngine.Core
 {
     public class WorkFlowNode
     {

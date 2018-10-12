@@ -1,4 +1,4 @@
-namespace Awesome.WorkFlowEngine.Core
+namespace Walle.WorkFlowEngine.Core
 {
     public class WorkFlowNodeSettings
     {

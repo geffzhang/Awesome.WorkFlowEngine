@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace Awesome.WorkFlowEngine.Common
+namespace Walle.WorkFlowEngine.Common
 {
     public static class ObjectExt
     {
